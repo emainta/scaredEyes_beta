@@ -1,0 +1,57 @@
+TO DO
+1 Spalancamento con radius linearmente
+
+2 Collegare ad audio Features
+
+3 Rendere impaurito (per adesso i movimenti sono randomici)
+
+4 Noise su nero 
+4.1 Linee di rumore
+
+5 Flashes di immagini
+
+
+
+ALTRO
+- Colore bck
+- Palette colori
+- Pupilla png/svg + distorsione
+
+DONE
+Tremolio occhio
+Fullscreen e proporzioni
+Rendere più fluido il Blinking
+
+
+OLD SPALANCA
+    
+    //if(radiusI < 80) {
+    //  this.is_spalancato = true;
+    //  bibbi = true;
+    //}
+    
+    //if(radiusI > 80) bibbi = false;
+    
+    //if (deltaSpal !=0) deltaTemp = deltaSpal;
+    
+    //if(this.is_spalancato){
+      
+    //   deltaH2 -= deltaSpal;
+  
+    //  if ( (-deltaH2) >= 1.5*max_blink_frame ) {
+    //   if(bibbi) {
+    //     deltaSpal = 0;
+    //     println("entrato1");
+    //   }else{
+    //     if(deltaSpal==0) { deltaSpal = -deltaTemp;
+    //     println("entrato2");}
+    //       //deltaSpal *= -1;
+    //   }
+    //  }
+    //  if ( (-deltaH2) <= 0 ) {
+    //    deltaH2 = 0;
+    //    deltaSpal *= -1;
+    //    this.is_spalancato = false;
+    //    println("entrato3"); 
+    //  }
+    //}

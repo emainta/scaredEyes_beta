@@ -1,3 +1,3 @@
 # Fear
 ## Scared Eyes 
-Reactive Visual made in Processing
+Visual of two 2D scared eyes made in Processing. This is part of a bigger visual perfomance I made for Politecnico di Milano on December 2019.
