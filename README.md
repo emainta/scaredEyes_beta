@@ -6,4 +6,4 @@
 
 Visual of two 2D scared eyes made in Processing. This is part of a bigger visual perfomance I made for Politecnico di Milano on December 2019.
 
-The full version can be found here: [Scared Eyes (Reactive Version)](../scaredEyes_reactive)
+The full version can be found here: [Scared Eyes (Reactive Version)](https://github.com/emainta/scaredEyes_reactive)
