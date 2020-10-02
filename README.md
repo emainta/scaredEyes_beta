@@ -5,7 +5,7 @@
 ![Example](/readme_data/sample_eyes.gif)
 
 Visual of two 2D scared eyes made in Processing. This is part of a bigger visual perfomance I made for Politecnico di Milano on December 2019. 
-Those visual we made for this seminar(https://youtu.be/Q1229V8ANIc), held in Politecnico di Milano on December 13th, 2019. The title of the seminar was **Percussions and emotions: an interactive performance**. 
+Those visual we made for this [seminar](https://youtu.be/Q1229V8ANIc), held in Politecnico di Milano on December 13th, 2019. The title of the seminar was **Percussions and emotions: an interactive performance**. 
 
 The full version can be found here: [Scared Eyes (Reactive Version)](https://github.com/emainta/scaredEyes_reactive)
 
